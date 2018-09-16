@@ -7,7 +7,7 @@ class Movie():
         # title : Movie name
         # storyline : Gist of movie
         # poster_image_url : Movie Poster
-        # trailer_youtube   : Youtube Trailer
+        # trailer_youtube : Youtube Trailer
         def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
             self.title = movie_title
             self.storyline = movie_storyline
